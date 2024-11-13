@@ -1,0 +1,5 @@
+streamlit
+spacy
+numpy
+PyPDF2
+flask
