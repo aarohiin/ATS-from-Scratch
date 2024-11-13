@@ -1,0 +1,9 @@
+resume-ats-analyzer/
+├── app.py                    # Main Streamlit app
+├── requirements.txt          # Dependencies
+├── README.md                 # Project documentation
+├── utils/
+    ├── pdf_parser.py         # PDF extraction logic
+    ├── ats_scoring.py        # ATS scoring and analysis
+    └── nlp_model.py          # NLP model loading and processing
+
